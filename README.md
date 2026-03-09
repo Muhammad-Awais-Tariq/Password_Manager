@@ -1,4 +1,4 @@
-# Time and Weather
+# Passsword Manager
 A simple CLI based password manager that takes the multiple passwords and encrpyt them and then store them in the file to be decrypted and used later
 ## Features
 - Secure password encryption using Fernet symmetric encryption
